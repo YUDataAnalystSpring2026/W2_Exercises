@@ -1,5 +1,5 @@
 /*
-Sakila is a database used to collect information about ______ and ______ for use by ______.
+Sakila is a database used to collect information about movie rentals and movies in inventory for use by a movie rental business.
 */
 
 SELECT * FROM actor; -- Retrieved 200 records
